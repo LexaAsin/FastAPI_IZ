@@ -1,0 +1,14 @@
+2025-10-29 05:01:21,703 - INFO - User registered: maria@example.com (ID: 2)
+2025-10-29 05:02:40,323 - INFO - Book created: Преступление и наказание by Фёдор Достоевский (Owner: maria@example.com)
+2025-10-29 05:13:15,098 - INFO - User registered: alex@example.com (ID: 1)
+2025-10-29 05:16:35,371 - INFO - Book created: Война и мир by Лев Толстой (Owner: alex@example.com)
+2025-10-29 05:16:43,510 - INFO - Book created: Преступление и наказание by Фёдор Достоевский (Owner: alex@example.com)
+2025-10-29 05:16:50,598 - INFO - Book created: Вишнёвый сад by Антон Чехов (Owner: alex@example.com)
+2025-10-29 05:26:06,704 - WARNING - Registration failed - email already exists: alex@example.com
+2025-10-29 05:27:58,828 - INFO - User registered: new@example.com (ID: 2)
+2025-10-29 05:32:16,750 - INFO - User registered: new@example.com (ID: 1)
+2025-10-29 05:33:53,121 - INFO - Book created: Война и мир by Лев Толстой (Owner: new@example.com)
+2025-10-29 05:33:58,751 - INFO - Book created: Преступление и наказание by Фёдор Достоевский (Owner: new@example.com)
+2025-10-29 05:34:09,762 - INFO - Book created: Вишнёвый сад by Антон Чехов (Owner: new@example.com)
+2025-10-29 06:01:09,070 - INFO - User new@example.com exported books to CSV
+2025-10-29 06:24:03,610 - INFO - User new@example.com exported books to CSV
